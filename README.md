@@ -12,7 +12,7 @@ The scripts used to generate the packed data for this project are stored at `./s
 
 ## Publication
 
-More information can be found in my [Twitter thread](https://twitter.com/_bitquence).
+More information can be found in my [Twitter thread](https://twitter.com/_bitquence/status/1630341120365346818?s=20).
 
 ## Credits
 
