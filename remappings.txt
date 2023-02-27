@@ -1,0 +1,5 @@
+ERC721A/=lib/ERC721A/contracts/
+forge-std/=lib/forge-std/src/
+inflate-sol/=lib/inflate-sol/contracts/
+@openzeppelin/=lib/openzeppelin-contracts/
+sstore2/=lib/sstore2/contracts/
